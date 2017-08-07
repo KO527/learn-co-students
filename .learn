@@ -1,7 +1,11 @@
 tags:
+<<<<<<< HEAD
   - arrays
   - CRUD
   - basic arrays
+=======
+  - method arguments
+>>>>>>> a251d5012c32ae9a4decdc9f665343f0acf316dd
 languages:
   - Ruby
 resources:
