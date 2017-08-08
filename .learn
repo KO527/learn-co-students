@@ -1,4 +1,5 @@
 tags:
+<<<<<<< HEAD
   - arrays
   - iteration
   - conditionals
@@ -6,3 +7,16 @@ languages:
   - ruby
 type:
   - todo
+=======
+<<<<<<< HEAD
+  - arrays
+  - CRUD
+  - basic arrays
+=======
+  - method arguments
+>>>>>>> a251d5012c32ae9a4decdc9f665343f0acf316dd
+languages:
+  - Ruby
+resources:
+  - 0
+>>>>>>> fde361997546ac94dad0af05cf952d63b8222459
