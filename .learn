@@ -1,7 +1,40 @@
 tags:
+<<<<<<< HEAD
   - methods
   - arrays
   - iteration
 languages:
   - ruby
 resources: 1
+=======
+<<<<<<< HEAD
+  - methods
+  - return values
+  - default arguments
+languages:
+  - ruby
+resources: 1
+=======
+<<<<<<< HEAD
+  - arrays
+  - iteration
+  - conditionals
+languages:
+  - ruby
+type:
+  - todo
+=======
+<<<<<<< HEAD
+  - arrays
+  - CRUD
+  - basic arrays
+=======
+  - method arguments
+>>>>>>> a251d5012c32ae9a4decdc9f665343f0acf316dd
+languages:
+  - Ruby
+resources:
+  - 0
+>>>>>>> fde361997546ac94dad0af05cf952d63b8222459
+>>>>>>> 4ed13e7e536ee993dae4ad6129fbe02ed5f66203
+>>>>>>> f75452edd1fd71831b63580a8600d9eda44306a7
